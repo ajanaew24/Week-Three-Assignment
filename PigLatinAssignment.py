@@ -4,7 +4,7 @@ __author__ = 'alicia.williams'
 #CIS-125 FA 2015
 
 # File: PigLatinAssignment.py
-# This program takes English words and translates them to Pig Latin
+# This program takes English words and translates them to Pig Latin.
 
 def main():
     print("This program translates an English word to Pig Latin. \n")
